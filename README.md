@@ -8,8 +8,7 @@ AI Email Generation Tool - live link - https://email-spark-ai.streamlit.app/
 ![LangChain](https://img.shields.io/badge/LangChain-Icon-green)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.0.0-green)
 
-This Streamlit application generates various types of emails used in the job hunting process, such as application emails, follow-up emails, thank-you emails, acceptance emails, withdrawal emails, and update emails. It uses the OpenAI GPT-3.5 Turbo model to generate email content based on user inputs.
-
+This Streamlit application generates various types of emails with different styles such as formal, appreciating, not satisfied, neutral. It uses the OpenAI GPT-3.5 Turbo model to generate email content based on user inputs.
 ## Features
 
 - **Email Types**: Provides templates for different types of job-related emails.
