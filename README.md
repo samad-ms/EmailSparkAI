@@ -1,6 +1,4 @@
-Here's a README template for your project:
 
----
 
 # EmailSparkAI
 AI Email Generation Tool - live link - https://email-spark-ai.streamlit.app/
